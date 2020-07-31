@@ -1,5 +1,5 @@
 /*
-  MAX30105 Breakout frmo SparkFun Electronics
+  MAX30105 Breakout from SparkFun Electronics
 
   Hardware Connections (Breakoutboard to Arduino):
   -5V = 5V (3.3V is allowed)

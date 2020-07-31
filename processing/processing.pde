@@ -120,12 +120,12 @@ void doAppend(IntList buffer, int i) {
 
 int getMean(IntList buffer) {
   int sum = 0;
-  int variance = 0;
+  int mean = 0;
   for (int a : buffer) {
     sum += a;
   }
-  variance = sum / buffer.size();
-  return variance;
+  mean = sum / buffer.size();
+  return mean;
 }
 
 int getVariance(IntList buffer) {
